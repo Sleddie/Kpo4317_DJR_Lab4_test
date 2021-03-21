@@ -1,0 +1,6 @@
+D:\Seconitory\Coding\C#\Kpo_Lab_4\Kpo4317_DJR_Test\ApplicationLibrary\bin\Release\ApplicationLibrary.dll
+D:\Seconitory\Coding\C#\Kpo_Lab_4\Kpo4317_DJR_Test\ApplicationLibrary\bin\Release\ApplicationLibrary.pdb
+D:\Seconitory\Coding\C#\Kpo_Lab_4\Kpo4317_DJR_Test\ApplicationLibrary\obj\Release\ApplicationLibrary.dll
+D:\Seconitory\Coding\C#\Kpo_Lab_4\Kpo4317_DJR_Test\ApplicationLibrary\obj\Release\ApplicationLibrary.pdb
+D:\Seconitory\Coding\C#\Kpo_Lab_4\Kpo4317_DJR_Test\ApplicationLibrary\obj\Release\ApplicationLibrary.csprojAssemblyReference.cache
+D:\Seconitory\Coding\C#\Kpo_Lab_4\Kpo4317_DJR_Test\ApplicationLibrary\obj\Release\ApplicationLibrary.csproj.CoreCompileInputs.cache

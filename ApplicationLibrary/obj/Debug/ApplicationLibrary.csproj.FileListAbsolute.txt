@@ -1,0 +1,5 @@
+D:\Seconitory\Coding\C#\Kpo_Lab_4\Kpo4317_DJR_Test\ApplicationLibrary\bin\Debug\ApplicationLibrary.dll
+D:\Seconitory\Coding\C#\Kpo_Lab_4\Kpo4317_DJR_Test\ApplicationLibrary\bin\Debug\ApplicationLibrary.pdb
+D:\Seconitory\Coding\C#\Kpo_Lab_4\Kpo4317_DJR_Test\ApplicationLibrary\obj\Debug\ApplicationLibrary.csprojAssemblyReference.cache
+D:\Seconitory\Coding\C#\Kpo_Lab_4\Kpo4317_DJR_Test\ApplicationLibrary\obj\Debug\ApplicationLibrary.dll
+D:\Seconitory\Coding\C#\Kpo_Lab_4\Kpo4317_DJR_Test\ApplicationLibrary\obj\Debug\ApplicationLibrary.pdb
